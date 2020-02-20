@@ -6,7 +6,7 @@ function plagawhat(){
     if(isNaN(number)===true) {
     alert(string + "plagerise");
     }else {
-    alert(out+(number+1));
+    alert(number+1);
     }
     }
     plagawhat();
